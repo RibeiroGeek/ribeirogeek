@@ -17,9 +17,9 @@
    <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
   
-<br> ![Profile View Counter](https://komarev.com/ghpvc/?username=ribeirogeek)
+<br> ![Snake animation](https://github.com/ribeirogeek/ribeirogeek/blob/output/github-contribution-grid-snake.svg)  
   
-
+<br> ![Profile View Counter](https://komarev.com/ghpvc/?username=ribeirogeek)
 <!--
 **RibeiroGeek/ribeirogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
