@@ -47,5 +47,3 @@ Atuo com ETL, engenharia de dados e criação de dashboards para apoiar decisõe
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeiroGeek&show_icons=true&theme=tokyonight)
