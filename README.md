@@ -40,3 +40,8 @@ Atuo com ETL, engenharia de dados e criação de dashboards para apoiar decisõe
 ✔️ Automação em Python  
 ✔️ Scripts SQL  
 ✔️ Dashboards e análises de dados  
+
+---
+
+### 📊 Estatísticas do GitHub
+![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=RibeiroGeek&show_icons=true&theme=tokyonight)
