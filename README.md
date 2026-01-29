@@ -1,34 +1,36 @@
-### Olá, seja bem-vindo ao meu perfil!👋
+## Olá! Seja bem-vindo(a) ao meu Github! 
 
-<div align="center">
-  <a href="#"> 
-  
-</div>
+📊 **Eu sou Analista de BI & MIS | Bilingue (PT/EN)** com foco em dados, automação e inteligência de negócio.
 
-            
-<div style="display: inline_block"><br>          
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
-   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
-  
-<br> ![Snake animation](https://github.com/ribeirogeek/ribeirogeek/blob/output/github-contribution-grid-snake.svg)  
-  
-<br> ![Profile View Counter](https://komarev.com/ghpvc/?username=ribeirogeek)
-<!--
-**RibeiroGeek/ribeirogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🧠 Experiência em **ETL com Python** e **SSIS (Visual Studio)**
+- 🗄️ Trabalho com **SQL Server** e **PostgreSQL**
+- 📈 Criação de dashboards no **Power BI**, **Tableau** e **Looker**
+- 🤖 Desenvolvimento de **automações em Python** para coleta e tratamento de dados
+- 🌎 Comunicação fluente em **Português e Inglês**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+### 🔍 O que você vai encontrar aqui
+✔️ Projetos de ETL  
+✔️ Automação em Python  
+✔️ Scripts SQL  
+✔️ Dashboards e análises de dados  
+
+---
+
+📫 **Vamos conversar?**  
+LinkedIn | GitHub | Portfólio
